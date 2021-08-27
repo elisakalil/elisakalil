@@ -1,6 +1,6 @@
 Hi there, im Elisa Kalil
 
-- I’m currently working on RPA for BRF
+- I’m currently working on Robot Process Automation [RPA] for BRF
 - I’m currently learning Data Engineering skills | languages
 ##
 ♀️#womanintech #womanindata
